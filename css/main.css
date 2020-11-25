@@ -51,7 +51,7 @@ button {
     flex: 1 1 70%;
     height: 90vh;
     background-size: cover;
-    background-image: url("/img/cover.jpg");
+    background-image: url("../img/cover.jpg");
     border-bottom-left-radius: 15px;
     border-top-left-radius: 15px;
 }
