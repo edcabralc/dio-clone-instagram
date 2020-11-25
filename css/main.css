@@ -139,3 +139,19 @@ button {
 .apps:nth-child(2) {
     background-image: url("../img/googleplay-button.png");
 }
+
+@media (max-width: 950px) {
+    .instagram-container {
+        max-width: 100%;
+        border-radius: 0px;
+    }
+    .bg-group {
+        display: none;
+    }
+    .main-user {
+        height: 100vh;
+    }
+    .form-user {
+        margin: 0 10px;
+    }
+}
